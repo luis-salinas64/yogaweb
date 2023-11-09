@@ -1,0 +1,47 @@
+.container {
+
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0px;
+    overflow-x: hidden;
+
+}
+
+.header {
+    width: 90%;
+    min-height: 200px;
+    display: flex;
+    justify-content: space-around;
+    background-image: url('../assets/portada_hari2.1.jpg');
+    /* background-size: cover; */
+    background-position: center;
+    background-repeat: no-repeat;
+    /* align-items: center;    */
+    margin: 0px;
+    padding: 30px;
+    border-bottom: 1px solid #FACA84;
+}
+
+.fraseText {
+    font-size: 40px;
+}
+
+@media (max-width: 600px) {
+    .fraseText {
+        font-size: 20px;
+    }
+}
+
+.titulo {
+    font-size: 40px;
+    text-align: center;
+    font-family: cursive;
+}
+
+@media (max-width: 600px) {
+    .titulo {
+        font-size: 20px;
+    }
+}
