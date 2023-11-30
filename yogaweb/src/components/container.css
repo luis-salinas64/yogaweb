@@ -24,14 +24,44 @@
     border-bottom: 1px solid #FACA84;
 }
 
-.fraseText {
-    font-size: 40px;
+.footer {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px;
+    padding: 10px;
+    border: 1px solid #FACA84;
 }
 
-@media (max-width: 600px) {
-    .fraseText {
-        font-size: 20px;
-    }
+.fraseText {
+    font-size: 60px;
+}
+
+.fraseStyle {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #FACA84
+}
+
+.portada {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center
+}
+
+.img {
+    width: 100%;
+    margin: 0px;
+    border-radius: 3px;
+    box-shadow: 5px 5px 5px 5px #FCF0EF;
+    padding: 5px
+}
+
+.imgFrase {
+    width: 8%;
+    margin: 0px;
 }
 
 .titulo {
@@ -40,8 +70,66 @@
     font-family: cursive;
 }
 
+.textStyle {
+    font-family: Cursive;
+    margin: 5px;
+    text-align: justify;
+    font-size: 40px;
+}
+
+.pStyle {
+    display: flex;
+    flex-direction: column;
+    margin: 1px;
+    padding: 2%
+}
+
+.button {
+    width: 36%;
+    background-color: #FBF0E4;
+    font-size: 20px;
+    border-radius: 5px;
+    
+}
+
+.espacio {
+    background-color: #FCF0EF;
+        justify-content: center;
+        align-items: center;
+        padding:3px;
+        width: 100%
+}
+.mapContainer {
+    width: 100%;    
+    padding: 3px;
+    box-shadow:1px 5px 15px rgba(0,0,0.8)
+}
+.location {
+    font-size: 35px;
+}
+
+.modal {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(179, 208, 250);
+    border-radius: 10px;
+
+}
+
 @media (max-width: 600px) {
+
+    .fraseText,
+    .titulo,
+    .textStyle,
+    .location {
+        font-size: 12px;
+    }
+
     .titulo {
+        font-size: 20px;
+    }
+
+    .textStyle {
         font-size: 20px;
     }
 }
