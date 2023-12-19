@@ -1,13 +1,28 @@
 import React from 'react';
 import '../components/container.css';
-import logoEscuela from '../assets/logoEscuela.png';
+import Cert1 from '../assets/ProfesorayMaestra.jpg';
+import Cert2 from '../assets/AlianzaProfesora.jpg';
+import volver from '../assets/volver-flecha.png';
 
-const Certificados = ({ children, ...props }) => (
-  <div className="certificados" {...props}>
-    {children}
-    <image src={logoEscuela} alt="logoEscuela" />
-    <image src={logoEscuela} alt="logoEscuela" />
-  </div>
-);
+const Certificados = ({ description, href }) => {
+
+
+  return (
+    <>
+    <a style={{display:'flex',justifyContent:'center'}} href='/'>
+    <img className='cerrar-btn' src={volver} alt='Cerrar'/>  </a>
+  
+      <a className='certificado' href={href}>
+        {description}
+        
+        <img className='imgcert' src={Cert1} alt="cert1" />
+
+        <img className='imgcert' src={Cert2} alt="cert2" />
+
+      </a>
+      </>
+  )
+
+};
 
 export default Certificados;

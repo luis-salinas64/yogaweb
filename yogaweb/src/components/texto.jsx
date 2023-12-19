@@ -14,7 +14,7 @@ const Texto = ({ children, ...props }) => (
             mis enseñanzas mientras sigo aprendiendo.
             Mi propósito como profe de Yoga es darte las herramientas para que vos también
             aprendas a <strong>conocerte, valorarte y animarte </strong>a este cambio.
-            Quiero enseñarte a buscar <strong>el bienestar.</strong>
+            Quiero enseñarte a buscar <strong>el bienestar. </strong>
             Que seas tu propia <strong>medicina</strong>.</p>
     </div>
 );

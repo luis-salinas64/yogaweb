@@ -1,13 +1,13 @@
 import React, { useEffect, useState } from 'react';
 import GoogleMapReact from 'google-map-react';
 
-const AnyReactComponent = ({ text }) => <div style={{fontSize:'30px', fontWeight:'bold'}}>{text}</div>;
+const AnyReactComponent = ({ text }) => <div style={{fontSize:'20px', fontWeight:'bold'}}>{text}</div>;
 
-const SimpleMap = () => {
+const SimpleMap = ({address, text}) => {
   const [location, setLocation] = useState(null);
 
   useEffect(() => {
-    const address = 'Aconcagua 3252, Remedios de Escalada, Buenos Aires, Argentina'; // Dirección de ejemplo
+    
     const apiKey = 'AIzaSyBDRCNPjy70dHAZxplREN9nhp40_tsoobQ';
 
     fetch(`https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(address)}&key=${apiKey}`)
@@ -23,14 +23,14 @@ const SimpleMap = () => {
       .catch(error => {
         console.error('Error al llamar a la API de Geocoding:', error);
       });
-  }, []);
+  }, [address,text]);
 
   const defaultProps = {
     center: {
       lat: 10.99835602,
       lng: 77.01502627
     },
-    zoom: 15
+    zoom: 17
   };
 
   return (
@@ -44,7 +44,7 @@ const SimpleMap = () => {
           <AnyReactComponent
             lat={location.lat}
             lng={location.lng}
-            text="Hari Yoga"
+            text={text}
           />
         </GoogleMapReact>
       ) : (
