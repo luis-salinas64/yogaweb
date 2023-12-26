@@ -4,7 +4,9 @@ import volver from '../assets/volver-flecha.png';
 import Whatsapp from '../assets/whatsapp.png';
 import SimpleMap from '../components/simpleMap.jsx';
 
-const Horarios = ({ children, ...props }) => (
+const Horarios = ({ children, ...props }) => {
+  
+  return (
   <div className='lugares'>
 
     <a style={{ display: 'flex', justifyContent: 'center' }} href='/'><img className='cerrar-btn' src={volver} alt='cerrar' /></a>
@@ -69,7 +71,8 @@ const Horarios = ({ children, ...props }) => (
       <img className='whatsapp-icon' src={Whatsapp} alt='whatsapp' />
     </a>
   </div>
-);
+  )
+};
 
 
 export default Horarios;

@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "name": "Que es Yoga",
+        "description": [
+            "EL YOGA, no es religión, no es educación física, no es deporte, no es terapia, no es actividad física, no es fitness, no es gimnasia, ni acrobacia, ni terapia alternativa o acro sports.",
+            "Sw. Maitreyananda: EL YOGA ES EDUCACION ESPIRITUAL.",
+            "El Yoga es una ciencia, arte y filosofía de vida psicofísica-espiritual, que integra estos tres planos de la existencia del ser humano entre sí y al individuo con el Universo, lo Supremo, Dios o el Todo, mediante el SAMADHI o estado de plenitud existencial, felicidad, dicha.",
+            "La primera técnica enseñada en los Sutras, ha sido el viyoga o sea, la capacidad de separar lo espiritual de la mente y el cuerpo. Nosotros somos lo que sentimos, porque lo espiritual de nosotros y de algo es lo que se siente en un momento determinado, generando un estado afectivo.",
+            "El Yoga enseña a desarrollar la inteligencia espiritual del ser humano, entendiéndola como capacidad de adaptación afectiva, sentimental y anímica de un individuo a su entorno. Esta capacidad de adaptación espiritual, permite al yogui sobrellevar sentimientos y situaciones que a otras personas les resultarían insoportables.El yogui, como cualquier practicante de Yoga, aprende a sentir. Comienza a entender y aprender que él, no sólo es lo que piensa o cree (mente) o lo que a su vez, hace mediante actos (cambios físicos del mismo cuerpo y de las cosas que lo rodean: acciones). El yogui, comienza a entender que su espíritu es lo que él mismo siente. Y comienza a saber que es más importante Ser que Tener. Es más importante ser médico, actor o profesor de Yoga, que tener un título de médico, actor o profesor de Yoga. Es más importante ser feliz, que tener cara de felicidad. Porque la felicidad nunca se tiene, siempre se logra cuando se es feliz.La libertad es poder ser, porque el tener es siempre pasajero. Para ser uno mismo, uno debe aprender a ser. Y para aprender a ser, uno debe comunicarse con su ser interior, con sus sentimientos, pasiones y anhelos, con sus afectos y estados anímicos.Nuestro mundo afectivo es nuestro espíritu.Si decimos que la inteligencia espiritual del ser humano es la capacidad de adaptación afectiva, sentimental y anímica de un individuo a su entorno."
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Yoga Terapia",
+        "description": [
+            "La Yogaterapia es una terapia espiritual que trabaja el campo Noologico o espiritual del individuo desarrollando su inteligencia espiritual tanto afectiva como emocional; por intermedio de tecnicas de Yoga aplicada a la terapia",
+            "La Yogaterapia trabaja técnicas psicosomaticas que ejercen una modificación espiritual del individuo, convirtiéndose en una terapia complementaria de psicoterapia, fisioterapia o medicina ayurveda"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Purna Vinyasa Yoga",
+        "description": [
+            "El purna vinyasa Yoga, es uno de los métodos más evolucionados y completos del Yoga.",
+            "Utiliza las prácticas de Asanas para generar cambios mentales y espirituales del ser humano.",
+            "Para esto utiliza 108 series o kramas, denominadas 108 principales o Purna krama Yoga.",
+            "La creatividad que nace de todas esas formas es infinita, permitiendo así no repetir las prácticas del Yoga.",
+            "Trabajando junto a las Asanas, respiración, contemplación, relajación en búsqueda del bienestar."
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Yoga integral",
+        "description": [
+            "La práctica del Yoga integral no transcurre a través de ninguna enseñanza mental de meditación, series de asanas, prácticas y ritos, o la devoción a deidades o garúes, ni en mantras u otros soportes imaginarios. Ella transcurre mediante la aspiración de un cambio cognitivo y de accionar en la vida diaria del ser humano común.",
+            "El propósito del yoga integral es la transformación de nuestra forma de ser, hacer, pensar, y sentir, sin establecer ninguna fragmentación de nuestro ser, en una profunda y amplia espiritualidad que nos conecte a nuestros sentimientos, a una existencia interna y externa integradas y a una transformación de nuestro modo ordinario de vivir en un camino de vida espiritual y armónico."
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Yoga Flow",
+        "description": [
+            "El Yoga Flow es una práctica dinámica donde aprendemos a coordinar el movimiento con la respiración, dejando así que fluyan las energías, conectándonos con nuestro ser y disfrutando de lo que estamos haciendo"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Tola Yoga",
+        "description": [
+            "Tola Yoga es el Yoga del Equilibio",
+            "Trabajando posturas de equilibrio,también trabajas tu fuerza de voluntad.",
+            "En tu abdomen se encuentra el centro de gravedad de tu cuerpo, responsable de sostener tu postura y el desarrollo de tu fuerza.",
+            "Al realizar posturas de equilibrio, estás activando más fibras musculares de tu abdomen y el suelo pélvico, permitiendo a TODO tu cuerpo GANAR fuerza muscular, potenciando, ampliando y mejorando tus rangos de movimientos."
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Swara Yoga",
+        "description": [
+            "Swara Yoga, el Yoga de la respiración",
+            "✓ postura correcta",
+            "Cuerpo estable",
+            "Espalda recta",
+            "Postura cómoda",
+            "Concentración ",
+            "✓ El principal músculo que interviene es el diafragma ",
+            "✓ Existen básicamente tres zonas de respiración ",
+            "Alta",
+            "Media",
+            "Baja",
+            "✓Existen nueve respiraciones ",
+            "Cuando comenzamos a practicar respiraciones es normal que al principio cueste. Pero con las prácticas se logra y las personas llegan a dominar la capacidad de usarlas adecuadamente según la ocasión que esté atravesando"
+        ]
+    },
+
+    {
+        "id": 8,
+        "name": "Pranayamas",
+        "description": ["Proximamente!!!"]
+    },
+
+    {
+        "id": 9,
+        "name": "Yoga Facial",
+        "description": ["Yoga Facial o Mukha Yoga, el original, creado en el año 1985",
+                        "Clase de Yoga y posturas de la cara",
+                        "Posturas, media posturas, posiciones de cada postura, poses, ejercicios y masajes",
+                        "Todo enfocado en el Yoga Wellness, el Ayurveda y la Yogaterapia",
+                        "Trabajando las emociones y su base muscular"]
+    },
+
+    {
+        "id": 10,
+        "name": "Tecnicas de concentracion para meditar",
+        "description": ["Proximamente!!"]
+    }
+
+    
+]

@@ -5,6 +5,7 @@ import Footer from "./components/footer";
 import Home from './screens/home.jsx';
 import Horarios from "./screens/daysHs.jsx";
 import Certificados from "./screens/certificados.jsx";
+import Tipos from "./screens/tipos.jsx";
 import './components/container.css';
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
           <Route path="/" element={<Home />} /> 
           <Route path="/daysHs" element={<Horarios/>} />
           <Route path="/certificados" element={<Certificados/>} />
+          <Route path="/tipos" element={<Tipos/>} />
 
         </Routes>
       </BrowserRouter>
