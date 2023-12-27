@@ -36,8 +36,9 @@
     font-size: 100px;
 }
 
-.footer p {
+.footer p a {
     font-size: 100px;
+    margin: 10px;
 }
 
 .fraseText {
@@ -228,7 +229,7 @@
 
 .cerrar-btn {
     text-decoration: none;
-    width: 80%;
+    width: 50%;
     margin-top: 15px;
 }
 
@@ -318,8 +319,16 @@
     background: radial-gradient(circle at center, #6facf1, #c0d0fc);
 }
 
+.tarifas {
+    display: flex;
+    align-items: center;
+    
+    font-size: 100px;
+}
+
 .igIcon {
-    width: 5%;
+    width: 35%;
+    
 }
 
 h3,
@@ -348,10 +357,11 @@ h4 {
     .short-button {
         margin-top: 10px;
         border-radius: 5px;
+        width: 30%;
     }
 
     .cerrar-btn {
-        width: 10%;
+        width: 8%;
         margin-top: 5px;
     }
     .info-text,
@@ -361,6 +371,7 @@ h4 {
         font-size: 11px;
     }
 
+    .tarifas,
     .item-tipo,
     .item-tipoPpal,
     .info-container,
@@ -391,7 +402,7 @@ h4 {
         box-shadow: inset 0 0 5px 5px rgba(245, 221, 115, 0.781);
         ;
     }
-
+    .imgFrase,
     .igIcon,
     .whatsapp-icon {
         width: 10%;

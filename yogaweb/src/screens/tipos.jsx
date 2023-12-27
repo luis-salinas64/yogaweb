@@ -2,7 +2,7 @@ import React from 'react';
 import { useState } from 'react';
 import '../components/container.css';
 import Modal from './infoModal';
-import volver from '../assets/volver-flecha.png';
+import volver from '../assets/proximo.png';
 import Whatsapp from '../assets/whatsapp.png';
 import infoIcon from '../assets/pregunta.png';
 import lista from '../data/dataTipos.json';
@@ -33,8 +33,7 @@ const Tipos = ({ children, ...props }) => {
 
         {lista.map(item => (
           <div key={item.id}>
-
-             {/* <div className='item-tipo'>              */}
+             
              <div className={item.name === 'Que es Yoga' ? 'item-tipoPpal' : 'item-tipo'}>
               <h3>{item.name}</h3>
               <img src={infoIcon} alt='info' className='info-icon'

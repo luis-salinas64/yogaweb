@@ -13,8 +13,9 @@ import Whatsapp from '../assets/whatsapp.png';
 function Home() {
 
   const horarios = 'Espacios y Horarios';
-  const certificados = '+ info';
+  const certificados = 'Certificados';
   const tipos = 'Métodos y Estilos';
+  const tarifas = 'Tarifas';
 
 
   return (
@@ -49,6 +50,8 @@ function Home() {
         < BigButton description={horarios} href='/daysHs' />
 
         < BigButton description={tipos} href='/tipos' />
+
+        < BigButton description={tarifas} href='/tarifas' />
 
         <a href="https://wa.me/5491165550149">
           <img className='whatsapp-icon' src={Whatsapp} alt='whatsapp' />

@@ -10,7 +10,7 @@ const Footer = ({ children, ...props }) => (
     <p>Aconcagua 3252 - Remedios de Escalada</p>
     <p>Buenos Aires - Argentina</p>
     
-    <img className='igIcon'src={ig} alt='ig'/>
+    <a style={{display:'flex', justifyContent:'center'}}href="https://www.instagram.com/hari._.yoga_/"><img className='igIcon'src={ig} alt='ig'/></a>
     
     
   </div>
