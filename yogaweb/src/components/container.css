@@ -31,8 +31,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 10px;
-    border: 1px solid #FACA84;
+    padding: 10px;    
     font-size: 100px;
 }
 
@@ -200,14 +199,14 @@
 .big-button {
     width: 100%;
     color: black;
-    border: 1px solid #FACA84;
+    /* border: 1px solid #f8a5d3; */
     border-radius: 5px;
     box-sizing: border-box;
     text-align: center;
     text-decoration: none;
     font-size: 200px;
     line-height: 350px;
-    box-shadow: inset 0 0 35px 35px rgba(245, 221, 115, 0.781);
+    box-shadow: inset 0 0 35px 35px rgba(241, 198, 223, 0.781);
     margin: 25px 0px 25px 0px;
 }
 
@@ -381,6 +380,10 @@ h4 {
         font-size: 16px;
     }
 
+    .footer p {
+        margin: 5px 0;
+    }
+
     .img-header {
         width: 50%;
     }
@@ -399,7 +402,7 @@ h4 {
     .big-button {
         line-height: 60px;
         margin: 2px 0px 5px 0px;
-        box-shadow: inset 0 0 5px 5px rgba(245, 221, 115, 0.781);
+        box-shadow: inset 0 0 5px 5px rgba(250, 177, 238, 0.781); 
         ;
     }
     .imgFrase,
