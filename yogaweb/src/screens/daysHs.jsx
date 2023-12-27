@@ -1,6 +1,6 @@
 import React from 'react';
 import '../components/container.css';
-import volver from '../assets/volver-flecha.png';
+import volver from '../assets/proximo.png';
 import Whatsapp from '../assets/whatsapp.png';
 import SimpleMap from '../components/simpleMap.jsx';
 
