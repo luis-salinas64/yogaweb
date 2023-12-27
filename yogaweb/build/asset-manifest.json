@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.8fc4f113.css",
-    "main.js": "/static/js/main.1de6bb7f.js",
-    "static/js/787.c2f72250.chunk.js": "/static/js/787.c2f72250.chunk.js",
-    "static/media/loto_dorada.png": "/static/media/loto_dorada.d131659f96b55ac6eadb.png",
-    "static/media/kari2.jpg": "/static/media/kari2.dc7c251f078a46634f92.jpg",
-    "static/media/AlianzaProfesora.jpg": "/static/media/AlianzaProfesora.e840de16797a8e93b93e.jpg",
-    "static/media/instagram.png": "/static/media/instagram.8e408da00539cdef4629.png",
-    "static/media/logoEscuela.png": "/static/media/logoEscuela.93f66dd49c3784922272.png",
-    "static/media/ProfesorayMaestra.jpg": "/static/media/ProfesorayMaestra.459fd06337049b3c9cd2.jpg",
-    "static/media/whatsapp.png": "/static/media/whatsapp.76013e2bdb5b74f33fb9.png",
-    "static/media/pregunta.png": "/static/media/pregunta.ca059857ea454042340c.png",
-    "static/media/proximo.png": "/static/media/proximo.4893b76056d6b20be23d.png",
-    "index.html": "/index.html",
-    "main.8fc4f113.css.map": "/static/css/main.8fc4f113.css.map",
-    "main.1de6bb7f.js.map": "/static/js/main.1de6bb7f.js.map",
-    "787.c2f72250.chunk.js.map": "/static/js/787.c2f72250.chunk.js.map"
+    "main.css": "/luis-salinas64/yogaweb/build/static/css/main.0929ff3c.css",
+    "main.js": "/luis-salinas64/yogaweb/build/static/js/main.69896787.js",
+    "static/js/787.c2f72250.chunk.js": "/luis-salinas64/yogaweb/build/static/js/787.c2f72250.chunk.js",
+    "static/media/loto_dorada.png": "/luis-salinas64/yogaweb/build/static/media/loto_dorada.d131659f96b55ac6eadb.png",
+    "static/media/kari2.jpg": "/luis-salinas64/yogaweb/build/static/media/kari2.dc7c251f078a46634f92.jpg",
+    "static/media/AlianzaProfesora.jpg": "/luis-salinas64/yogaweb/build/static/media/AlianzaProfesora.e840de16797a8e93b93e.jpg",
+    "static/media/instagram.png": "/luis-salinas64/yogaweb/build/static/media/instagram.8e408da00539cdef4629.png",
+    "static/media/logoEscuela.png": "/luis-salinas64/yogaweb/build/static/media/logoEscuela.93f66dd49c3784922272.png",
+    "static/media/ProfesorayMaestra.jpg": "/luis-salinas64/yogaweb/build/static/media/ProfesorayMaestra.459fd06337049b3c9cd2.jpg",
+    "static/media/whatsapp.png": "/luis-salinas64/yogaweb/build/static/media/whatsapp.76013e2bdb5b74f33fb9.png",
+    "static/media/pregunta.png": "/luis-salinas64/yogaweb/build/static/media/pregunta.ca059857ea454042340c.png",
+    "static/media/proximo.png": "/luis-salinas64/yogaweb/build/static/media/proximo.4893b76056d6b20be23d.png",
+    "index.html": "/luis-salinas64/yogaweb/build/index.html",
+    "main.0929ff3c.css.map": "/luis-salinas64/yogaweb/build/static/css/main.0929ff3c.css.map",
+    "main.69896787.js.map": "/luis-salinas64/yogaweb/build/static/js/main.69896787.js.map",
+    "787.c2f72250.chunk.js.map": "/luis-salinas64/yogaweb/build/static/js/787.c2f72250.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8fc4f113.css",
-    "static/js/main.1de6bb7f.js"
+    "static/css/main.0929ff3c.css",
+    "static/js/main.69896787.js"
   ]
 }
