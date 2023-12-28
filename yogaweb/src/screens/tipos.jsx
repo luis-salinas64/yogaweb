@@ -52,8 +52,7 @@ const Tipos = ({ children, ...props }) => {
               <p key={index}>{line}</p>
             ))}
           </div>
-
-          {/* <p>{selectedDescription}</p> */}
+          
         </Modal>
       )}
       <a href="https://wa.me/5491165550149">
